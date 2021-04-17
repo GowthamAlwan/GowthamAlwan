@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" />, I am Gowtham Alwan
 
-<!--
-**GowthamAlwan/GowthamAlwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Engineer, growing and exploring tech every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Toolbox
+<p>
+  <img src = "https://cdn.worldvectorlogo.com/logos/java-4.svg" height = "50px" width = "50px" title = "Java" />
+  <img src = "https://cdn.worldvectorlogo.com/logos/spring-3.svg" height = "50px" width = "50px" title = "Spring" />
+  <img src = "https://cdn.worldvectorlogo.com/logos/git-icon.svg" height = "50px" width = "50px" title = "Git" />
+  <img src = "https://cdn.worldvectorlogo.com/logos/postgresql.svg" height = "50px" width = "50px" title = "PostgreSQL" />
+  <img src = "https://cdn.worldvectorlogo.com/logos/kafka.svg" height = "50px" width = "50px" title = "Kafka" />
+  <img src = "https://cdn.worldvectorlogo.com/logos/docker.svg" height = "50px" width = "50px" title = "Docker" />
+  <img src = "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height = "50px" width = "50px" title = "JavaScript" />
+  <img src = "https://cdn.worldvectorlogo.com/logos/python-5.svg" height = "50px" width = "50px" title = "Python" />
+</p>
+
+---
+
+### Connect with me:
+<p>
+  [<img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width = "30px" height = "30px" />][linkedIn]
+  [<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width = "30px" height = "30px" />][twitter]
+</p>
+
+[linkedIn]: https://www.linkedin.com/in/gowthamalwan/
+[twitter]: https://twitter.com/GowthamAlwan
