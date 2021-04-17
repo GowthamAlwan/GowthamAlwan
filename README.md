@@ -19,10 +19,8 @@ A Software Engineer, growing and exploring tech every day.
 ---
 
 ### Connect with me:
-<p>
-  [<img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width = "30px" height = "30px" />][linkedIn]
-  [<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width = "30px" height = "30px" />][twitter]
-</p>
+[<img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width = "30px" height = "30px" />][linkedIn]
+[<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width = "30px" height = "30px" />][twitter]
 
 [linkedIn]: https://www.linkedin.com/in/gowthamalwan/
 [twitter]: https://twitter.com/GowthamAlwan
