@@ -14,6 +14,7 @@ A Software Engineer, growing and exploring tech every day.
   <img src = "https://cdn.worldvectorlogo.com/logos/docker.svg" height = "50px" width = "50px" title = "Docker" />
   <img src = "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height = "50px" width = "50px" title = "JavaScript" />
   <img src = "https://cdn.worldvectorlogo.com/logos/python-5.svg" height = "50px" width = "50px" title = "Python" />
+  <img src = "https://cdn.worldvectorlogo.com/logos/solidity.svg" height = "50px" width = "50px" title = "Solidity" />
 </p>
 
 ---
